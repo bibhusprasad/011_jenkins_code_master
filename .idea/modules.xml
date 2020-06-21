@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/011_jenkins_code_master.iml" filepath="$PROJECT_DIR$/.idea/011_jenkins_code_master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tomcat-sample/java-tomcat-sample.iml" filepath="$PROJECT_DIR$/java-tomcat-sample/java-tomcat-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-samples/single-module/single-module-project.iml" filepath="$PROJECT_DIR$/maven-samples/single-module/single-module-project.iml" />
     </modules>
   </component>
